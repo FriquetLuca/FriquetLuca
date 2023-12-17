@@ -5,7 +5,7 @@
 I'm used to program in C#, HLSL and Javascript (using typescript).
   Either back of front, no challenge is hard enough to not try to tackle it!</p>
   
- - Currently working as **Full-stack developer at Komon**
+ - Currently working as **Full-stack developer at HRMano**
  - All my public projects are MIT licensed so feel free to use them
 
 My GitHub contain a lot of projects whose purpose is either to be a stack, to parse datas, some research, notes, ... Feel free to visit.
