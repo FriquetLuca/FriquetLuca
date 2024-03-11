@@ -2,7 +2,7 @@
 <h2 align="center">Full-Stack Developer</h2>
 
 <p>Hello everyone, I'm a developer passionate about mathematics, science and the art of programming.
-I'm used to program in C#, HLSL and Javascript (using typescript).
+I'm used to program in C#, HLSL, Rust and Javascript (using typescript).
   Either back of front, no challenge is hard enough to not try to tackle it!</p>
   
  - Currently working as **Full-stack developer at HRMano**
