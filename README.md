@@ -10,10 +10,11 @@ I'm used to program in C#, HLSL, Rust and Javascript (using typescript).
 
 My GitHub contain a lot of projects whose purpose is either to be a stack, to parse datas, some research, notes, ... Feel free to visit.
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriquetLuca&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,vue" alt="friquet-luca" style="max-width: 100%;" />
+</p>
+
 <h3 align="left">My other social medias:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/friquet-luca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="friquet-luca" height="30" width="40" /></a>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriquetLuca&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,vue" alt="friquet-luca" style="max-width: 100%;" />
 </p>
