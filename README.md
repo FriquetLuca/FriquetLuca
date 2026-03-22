@@ -8,7 +8,7 @@ I'm used to program in C#, HLSL, Rust and Javascript (using typescript).
  - Currently working as **Full-stack developer at HRMano**
  - All my public projects are MIT licensed so feel free to use them
 
-My GitHub contain a lot of projects whose purpose is either to be a stack, to parse datas, some research, notes, ... Feel free to visit.
+My GitHub contain a lot of projects written usually in typescript or rust. Feel free to visit.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriquetLuca&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,vue" alt="friquet-luca" style="max-width: 100%;" />
