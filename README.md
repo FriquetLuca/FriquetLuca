@@ -2,10 +2,10 @@
 <h2 align="center">Full-Stack Developer</h2>
 
 <p>Hello everyone, I'm a developer passionate about mathematics, science and the art of programming.
-I'm used to program in C#, HLSL, Rust and Javascript (using typescript).
-  Either back of front, no challenge is hard enough to not try to tackle it!</p>
+I'm used to program in C#, HLSL, Rust and Javascript (using typescript) and using the following databases: Posgresql, MySql, Surrealdb, T-SQL.
+  Either back of front, no challenge is hard enough to ignore it!</p>
   
- - Currently working as **Full-stack developer at HRMano**
+ - Full-stack developer
  - All my public projects are MIT licensed so feel free to use them
 
 My GitHub contain a lot of projects written usually in typescript or rust. Feel free to visit.
